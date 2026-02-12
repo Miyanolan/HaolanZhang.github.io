@@ -4,9 +4,9 @@ title                    : "Haolan Zhang"
 title_separator          : "-"
 name                     : &name "Haolan Zhang"
 description              : &description "Ph.D. Student at JAIST - Adaptive Visual SLAM"
-url                      : https://HaolanZhang.github.io  # TODO: Replace with your GitHub username
+url                      : https://Miyanolan.github.io  # TODO: Replace with your GitHub username
 baseurl                  : "
-repository               : "Miyanolan/HaolanZhang.github.io"  # TODO: Replace
+repository               : "Miyanolan/Miyanolan.github.io"  # TODO: Replace
 
 # Site Author
 author:
