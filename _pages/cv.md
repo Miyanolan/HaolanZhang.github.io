@@ -27,13 +27,13 @@ redirect_from:
 ## Research Projects
 
 **Adaptive Visual SLAM Framework in Various Environments**
-- Developed SR-SLAM, a scene reliability-based RGB-D SLAM framework that achieves robust localization across diverse environments through a unified reliability assessment mechanism integrating detection confidence, spatial distribution, feature quality, depth quality, and historical observations. Demonstrated superior robustness over state-of-the-art methods on TUM, BONN, and OpenLORIS-scene benchmarks.
+- Developed SR-SLAM, a scene reliability-based RGB-D SLAM framework that achieves robust localization across diverse environments through a unified reliability assessment mechanism. Demonstrated superior robustness over state-of-the-art methods on TUM, BONN, OpenLORIS-scene benchmarks and real environments.
 
 ## Technical Skills
 
 - **Frameworks:** ROS (Robot Operating System)
 - **Languages:** C++, Python, PyTorch
-- **Natural Languages:** Chinese (Native), Japanese (JLPT N1), English (TOEIC 785)
+- **Natural Languages:** Chinese (Native), Japanese (JLPT N1), English
 
 ## References
 
