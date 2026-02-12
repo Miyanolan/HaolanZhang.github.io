@@ -11,7 +11,7 @@ I am a second-year Ph.D. student at [Japan Advanced Institute of Science and Tec
 
 ## Research Interests
 
-Many SLAM algorithms rely on fixed parameters and assumptions, performing well in controlled settings but degrading significantly in challenging conditions such as low-light, low-texture, occluded, or dynamic environments. My doctoral research addresses this gap by developing **adaptive SLAM systems** that assess environmental conditions and self-adjust accordingly. I explore both heuristic and learning-based approaches to enable algorithms to adapt across environments without manual tuning, aiming to build SLAM systems that operate robustly in diverse real-world conditions.
+Many SLAM algorithms rely on fixed parameters and assumptions, performing well in controlled settings but degrading significantly in challenging conditions such as low-light, low-texture, occluded, or dynamic environments. My research addresses this gap by developing **adaptive SLAM systems** that assess environmental conditions and self-adjust accordingly. I explore both heuristic and learning-based approaches to enable algorithms to adapt across environments without manual tuning, aiming to build SLAM systems that operate robustly in diverse real-world conditions.
 
 **Keywords:** Visual SLAM, Robot Localization, Scene Understanding, Dynamic Environments, Adaptive Systems
 
