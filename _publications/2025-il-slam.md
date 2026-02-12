@@ -9,6 +9,6 @@ venue: 'IEEE International Conference on Robotic Computing (IRC)'
 citation: 'H. Zhang, T. N. Canh, C. Li, R. Yang, Y. Ji and N. Y. Chong, &quot;IL-SLAM: Intelligent Line-assisted SLAM Based on Feature Awareness for Dynamic Environments,&quot; <i>IEEE IRC 2025</i>, Naples, Italy, 2025.'
 ---
 
-**Authors:** **Haolan Zhang**, Thanh Nguyen Canh, Chenming Li, Ruixuan Yang, Yilin Ji, and Nak Young Chong
+**Authors:** **Haolan Zhang**, Thanh Nguyen Canh, Chenghao Li, Ruidong Yang, Yonghoon Ji, and Nak Young Chong
 
 Presented at IEEE International Conference on Robotic Computing (IRC), Naples, Italy, October 2025.
