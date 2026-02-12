@@ -23,6 +23,8 @@ Many SLAM algorithms rely on fixed parameters and assumptions, performing well i
 
 ## News
 
-- **2026.03** — Our paper "SR-SLAM" is published in *Robotics and Autonomous Systems*!
+- **2025.12** — Our paper "SR-SLAM" is published in *Robotics and Autonomous Systems*!
 - **2025.10** — Paper "IL-SLAM" accepted at IEEE IRC 2025 (Naples, Italy).
-- **2025** — Papers accepted at IEEE RCAR 2025, ICCAS 2025, and ECMR 2025.
+- **2025.08** — Papers accepted at ICCAS 2025 (Incheon, Korea).
+- **2025.06** — Papers accepted at ECMR 2025 (Padova, Italy).
+- **2025.03** — Papers accepted at IEEE RCAR 2025 (Toyama, Japan).
